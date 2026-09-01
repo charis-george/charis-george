@@ -1,6 +1,6 @@
 Hi, I'm Charis 👋
 
-Founder, builder, and aspiring computer engineer.
+Founder, builder, and aspiring software engineer.
 
 🚀 Currently building ZURI — digital ordering and analytics for businesses.
 
