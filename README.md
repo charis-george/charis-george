@@ -32,14 +32,6 @@ The serious part is the product. The goofy part is allowed to stay.
 
 A guest opens a link or scans a code, picks from the menu, and pays. The venue runs orders, reservations, and payouts from one dashboard. Less clipboard. More "your order is on the way." 🍽️
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="280" alt="A kitten carefully reviewing some code" />
-
-<sub>code review, junior associate</sub>
-
-</div>
-
 ### 🔭 What I'm into
 
 | | |
@@ -61,15 +53,7 @@ A guest opens a link or scans a code, picks from the menu, and pays. The venue r
 
 </div>
 
-### 😸 The other job description
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="420" alt="A cat typing on a laptop with great confidence" />
-
-<sub>some days I am the founder. some days I am this cat.</sub>
-
-</div>
+### 😄 The other job description
 
 I take the work seriously and the vibe lightly. If a button can take a payment and also make someone smile, that is the job.
 
