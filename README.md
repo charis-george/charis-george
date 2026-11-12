@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hello" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=5B21B6&center=true&vCenter=true&width=720&height=50&lines=Founder%2C+builder%2C+aspiring+software+engineer;Products+where+tech+and+fun+get+along;Currently+building+ZURI" alt="Founder, builder, aspiring software engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=5B21B6&center=true&vCenter=true&width=720&height=50&lines=Founder%2C+builder%2C+aspiring+software+engineer;Products+where+tech+and+fun+get+along;Currently+building+ZURI" alt="Founder, builder, software engineer" />
 
 <br />
 
